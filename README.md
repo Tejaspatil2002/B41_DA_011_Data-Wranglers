@@ -1,6 +1,6 @@
 # **Movie Ratings and Genre Analysis**
 
-### [Click Here for Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
+### Dataset : https://www.kaggle.com/datasets/narayan63/netflix-popular-movies-dataset
 
 **Objective:**
 
