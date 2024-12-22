@@ -1,6 +1,5 @@
 <h1 align="center"> Movie Ratings and Genre Analysis </h1>
 
-
 <h2>Introduction:</h2
 <p>This project is a Streamlit-based interactive dashboard designed to provide insights into movie ratings and genre data.Its core functionality is Interactive Filters, KPIs, Visualizations,it solves problems such as Data Exploration,Trend Analysis,Informed Decision-Making.</p>
 
@@ -60,4 +59,76 @@ Technology Stack
 - Plotly
 
 
+<div align="center">
+<h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33"> there, we are <span style="color: #447ED5">Team Data Wrangles</span></h2>
+ 
+</div>
 
+<div align="center">
+       
+ <h3>Block 41 - Construct Week Group Project</h3>
+ <h3>Project Code : B41_DA_011_Data Wranglers </h3>
+  <h3>Project Name : Data Wranglers</h3>
+  
+ </div>
+
+<div align="center">
+<h3 align="left">👷Contributors :</h3>
+
+<h4>✦Tejas Patil </h4>
+<h4>✦Chandra Yamuna</h4>
+<h4>✦ Prashant Patil</h4>
+
+</div>
+
+<br/>
+<div align="center">
+
+ <h4>logo :"Movie Ratings and Genre Analysis &  "</h4>
+<img src="[https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif](https://github.com/Tejaspatil2002/B41_DA_011_Data-Wranglers/blob/main/logo.jpg)" width="33"> 
+
+
+ ### 🌐 Streamlit Link : https://streamlit.app/
+ 
+ </div>
+
+
+<h3 align="left"> About This Project 📖</h3>
+
+ <div aling="left">
+
+  <p>   Description About Project     </p>
+
+  </div>
+
+### Tech Stack 🛠
+![cover](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
+##
+
+### ScreenShots 📷
+
+<h4>» Dashboard </h4>
+<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img7.jpg" width="700" height="300" alt="Dashboard">
+
+<h4>»Filter Data by Crime Description </h4>
+<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img6.jpg" width="700" height="300" alt="Filter Data">
+
+<h4>» PieChart of Parent Incident Type Distribution </h4> 
+<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img2.jpg" width="700" height="300" alt="Filter Data">
+
+ 
+ ##
+
+ ### Run Locally  💻
+
+<h4>1. Clone the project </h4>
+
+
+git clone https://github.com/Agarwal-ish/Number-Chunchers.git
+
+
+<h4>2. Go to the project directory </h4> 
+
+```
+cd Number-Chunchers
