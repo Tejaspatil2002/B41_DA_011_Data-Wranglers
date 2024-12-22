@@ -10,7 +10,7 @@
 
 </div>
 <div align="center" >
-  <imgsrc="https://github.com/Tejaspatil2002/B41_DA_011_Data-Wranglers/blob/main/logo.jpg?raw=true" width='250'>
+  <img src="https://github.com/Tejaspatil2002/B41_DA_011_Data-Wranglers/blob/main/logo.jpg?raw=true" width='250'>
 # 🚀 Domain: Movie Ratings and Genre Analysis
 </div>
 
