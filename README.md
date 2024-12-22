@@ -6,8 +6,6 @@
 
 
 
-
-
 ## Introduction
 The **Movie Ratings and Genre Analysis Dashboard** is an interactive web application designed to explore insights from movie data. Built with Streamlit, this dashboard provides dynamic visualizations and filters, making it easy for users to understand movie trends, analyze ratings, and discover genre popularity over time. The tool is ideal for movie enthusiasts, researchers, and data analysts.
 
@@ -46,15 +44,6 @@ The dashboard is deployed and accessible at:
 ![image](https://github.com/user-attachments/assets/be62eb21-779b-40cb-9827-0b498fd0dab7)
 
 
-### 🚀 Steps to Run the Application
-###### Prerequisites
-Ensure the following libraries are installed:
-- Streamlit
-- Pandas
-- Plotly
-- Matplotlib
-- Seaborn
-
 ### Technology Stack 🛠
 ![cover](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 - Pandas
@@ -62,10 +51,10 @@ Ensure the following libraries are installed:
 - Plotly.express
 - Matplotlib
 - Streamlit
-
-
-
-
+- 
+##### You can install these libraries using the following command:
+- bash
+pip install streamlit pandas plotly matplotlib seaborn
   
 ### DashBord Screen Shot
 
