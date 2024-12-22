@@ -49,8 +49,8 @@ The dashboard is deployed and accessible at:
 ---
 
 ## Links
-- **Presentation Video:** [Watch the Presentation]([https://your-presentation-link.com](https://youtu.be/9QlJRG_Ow2g))  
-- **Code Walkthrough Video:** [Watch the Code Walkthrough]([https://your-code-walkthrough-link.com](https://youtu.be/yx770vw0Glg))
+- **Presentation Video:** [Watch the Presentation](https://your-presentation-link.com](https://youtu.be/9QlJRG_Ow2g)  
+- **Code Walkthrough Video:** [Watch the Code Walkthrough](https://your-code-walkthrough-link.com](https://youtu.be/yx770vw0Glg)
 
 ---
 
