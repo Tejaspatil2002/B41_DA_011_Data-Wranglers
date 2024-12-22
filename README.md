@@ -9,9 +9,11 @@
 <h4>✦ Prashant Patil</h4>
 
 </div>
-
-<img align="center" src="https://github.com/Tejaspatil2002/B41_DA_011_Data-Wranglers/blob/main/logo.jpg?raw=true" width='250'>
+<div align="center" >
+  <imgsrc="https://github.com/Tejaspatil2002/B41_DA_011_Data-Wranglers/blob/main/logo.jpg?raw=true" width='250'>
 # 🚀 Domain: Movie Ratings and Genre Analysis
+</div>
+
 
 
 # Movie Ratings and Genre Analysis Dashboard
