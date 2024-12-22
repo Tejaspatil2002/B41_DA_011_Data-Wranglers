@@ -1,4 +1,4 @@
-<h1 align="center"> Project Title: Movie Ratings and Genre Analysis </h1>
+<h1 align="center" color = 'red'> Project Title: Movie Ratings and Genre Analysis </h1>
 
 Introduction:
 This project is a Streamlit-based interactive dashboard designed to provide insights into movie ratings and genre data.Its core functionality is Interactive Filters, KPIs, Visualizations,it solves problems such as Data Exploration,Trend Analysis,Informed Decision-Making.
