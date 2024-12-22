@@ -51,12 +51,17 @@ The dashboard is deployed and accessible at:
 - Plotly.express
 - Matplotlib
 - Streamlit
-- 
+
 ### You can install these libraries using the following command:
 - bash
-pip install streamlit pandas plotly matplotlib seaborn
+- pip install streamlit pandas plotly matplotlib seaborn
   
-### DashBord Screen Shot
+### ScreenShots 📷
+>> Dashbord
+![image](https://github.com/user-attachments/assets/893e63b8-7f14-4a02-b7ba-eab1579365d5)
+>> Filter Data by Average Ratings by Certification
+
+
 
 
 
