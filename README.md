@@ -1,6 +1,5 @@
 
 <h1 align="center"> 🎬 Movies Dataset Analysis Dashboard</h1>
-<div align="center">
   
 <div align="center">
   
