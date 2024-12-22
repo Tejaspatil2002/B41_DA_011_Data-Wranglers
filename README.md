@@ -1,13 +1,5 @@
 <h1 align="center"> Movie Ratings and Genre Analysis Dashboard </h1>
 
-<div align="left">
-<h3 align="left">👷Contributors :</h3>
-
-<h4>✦Tejas Patil </h4>
-<h4>✦Chandra Yamuna</h4>
-<h4>✦ Prashant Patil</h4>
-
-</div>
 <div align="center" >
   <img src="https://github.com/Tejaspatil2002/B41_DA_011_Data-Wranglers/blob/main/logo.jpg?raw=true" width='300'>
 </div>
@@ -33,14 +25,12 @@ The **Movie Ratings and Genre Analysis Dashboard** is an interactive web applica
   - Average Rating Per Year
 - **Customizable Views:** Focus on specific data points or patterns of interest.
 
----
 
 ## Dataset
 The dataset used for this project is sourced from Kaggle:  
 [Netflix Popular Movies Dataset](https://www.kaggle.com/datasets/narayan63/netflix-popular-movies-dataset).  
 It includes details such as movie titles, genres, ratings, votes, release years, and more.
 
---
 
 ## Deployment
 The dashboard is deployed and accessible at:  
@@ -51,7 +41,17 @@ The dashboard is deployed and accessible at:
 - **Presentation Video:** [Watch the Presentation](https://your-presentation-link.com](https://youtu.be/9QlJRG_Ow2g)  
 - **Code Walkthrough Video:** [Watch the Code Walkthrough](https://your-code-walkthrough-link.com](https://youtu.be/yx770vw0Glg)
 
----
+## File Structure
+### Movie-Analysis-Dashboard/
+├── main.py               # Main application code for Streamlit
+├── Preprocessor.py       # Preprocessing logic for cleaning and filtering data
+├── cleaned_n_moviess.csv # Cleaned dataset for analysis
+├── EDA Pattern.ipynb     # Exploratory Data Analysis patterns and insights
+├── requirements.txt      # Dependencies for the project
+├── logo.jpg              # Project logo
+├── README.md             # Documentation
+
+
 
 ### Prerequisites
 Ensure the following libraries are installed:
@@ -65,3 +65,35 @@ Ensure the following libraries are installed:
 1. Clone the project:
    ```bash
    git clone https://github.com/your-repo-url.git
+
+# Movies Rating and Genres Analysis
+
+## Authors
+<div align="left">
+<h3 align="left">👷Contributors :</h3>
+
+<h4>✦Tejas Patil </h4>
+<h4>✦Chandra Yamuna</h4>
+<h4>✦ Prashant Patil</h4>
+
+</div>
+## Feedback
+We'd love to hear from you! Use the contact form in the app to share your thoughts or suggestions.
+
+## Acknowledgments
+This project is made possible with:
+
+- **Datasets**: Publicly available movie ratings and genre data.
+- **Visualization Libraries**: Streamlit, Plotly, and more.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Future Enhancements
+- Integration of real-time movie rating data.
+- Granular insights, including genre-based analysis.
+- Predictive analytics for movie ratings and trends using machine learning.
+
+Thank you for exploring the Movies Rating and Genres with us! 🍿🎬🌟
+
+
