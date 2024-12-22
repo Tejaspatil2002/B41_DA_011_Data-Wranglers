@@ -80,8 +80,6 @@ You can install these libraries using the following command:
 - Filter Data by Average Ratings by Certification
 ![image](https://github.com/user-attachments/assets/04092984-5f6f-44fe-b8d4-ea2c541624b3)
 
--  PieChart of Genre Popularity
-![image](https://github.com/user-attachments/assets/6e2704da-ce84-48a2-bf1a-17c25239151d)
 
 -  📉 Relationship between Year and Rating
 ![image](https://github.com/user-attachments/assets/30698347-f1f9-44e9-b015-42f5a800023c)
@@ -92,10 +90,9 @@ You can install these libraries using the following command:
 
 ![image](https://github.com/user-attachments/assets/cf92972a-a0fe-41d9-880f-8d452857eec9)
 
-![image](https://github.com/user-attachments/assets/d8b81ee0-a968-42bd-800f-5f4adb9bd18d)
 
 ## 📋 Authors
-- 👷Contributors :
+👷Contributors :
 - Tejas Patil
 - Chandra Yamuna
 - Prashant Patil
