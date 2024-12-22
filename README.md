@@ -46,8 +46,8 @@ The dashboard is deployed and accessible at:
 ![image](https://github.com/user-attachments/assets/be62eb21-779b-40cb-9827-0b498fd0dab7)
 
 
-
-### Prerequisites
+### 🚀 Steps to Run the Application
+###### Prerequisites
 Ensure the following libraries are installed:
 - Streamlit
 - Pandas
@@ -55,34 +55,36 @@ Ensure the following libraries are installed:
 - Matplotlib
 - Seaborn
 
-### Steps to Run the Application
-1. Clone the project:
-   ```bash
-   git clone https://github.com/your-repo-url.git
+### Technology Stack 🛠
+![cover](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+- Pandas
+- Seaborn
+- Plotly.express
+- Matplotlib
+- Streamlit
 
-# Movies Rating and Genres Analysis
 
-## Authors
-<div align="left">
-<h3 align="left">👷Contributors :</h3>
 
-<h4>✦Tejas Patil </h4>
-<h4>✦Chandra Yamuna</h4>
-<h4>✦ Prashant Patil</h4>
 
-</div>
+  
+### DashBord Screen Shot
 
-## Feedback
+
+
+## 📋 Authors
+- 👷Contributors :
+- Tejas Patil
+- Chandra Yamuna
+- Prashant Patil
+
+## ✉️Feedback
 We'd love to hear from you! Use the contact form in the app to share your thoughts or suggestions.
 
-## Acknowledgments
+## 🤝 Acknowledgments
 This project is made possible with:
 
 - **Datasets**: Publicly available movie ratings and genre data.
 - **Visualization Libraries**: Streamlit, Plotly, and more.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Future Enhancements
 - Integration of real-time movie rating data.
