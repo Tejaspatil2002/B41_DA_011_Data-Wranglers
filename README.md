@@ -1,6 +1,5 @@
 <h1 align="center"> Movie Ratings and Genre Analysis </h1>
 
-# Movie Ratings and Genre Analysis
 <div align="left">
 <h3 align="left">👷Contributors :</h3>
 
