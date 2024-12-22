@@ -70,7 +70,7 @@ The dashboard is deployed and accessible at:
 You can install these libraries using the following command:
 
 ``bash
-pip install streamlit pandas plotly matplotlib seaborn
+- pip install streamlit pandas plotly matplotlib seaborn
 
   
 ### 📸 Screenshots
