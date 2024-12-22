@@ -59,19 +59,9 @@ Technology Stack
 - Plotly
 
 
-<div align="center">
-<h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33"> there, we are <span style="color: #447ED5">Team Data Wrangles</span></h2>
- 
-</div>
 
-<div align="center">
-       
- <h3>Block 41 - Construct Week Group Project</h3>
- <h3>Project Code : B41_DA_011_Data Wranglers </h3>
-  <h3>Project Name : Data Wranglers</h3>
-  
- </div>
 
+# Movie Ratings and Genre Analysis
 <div align="center">
 <h3 align="left">👷Contributors :</h3>
 
@@ -81,79 +71,17 @@ Technology Stack
 
 </div>
 
-<br/>
-<div align="center">
-
- <h4>logo :"Movie Ratings and Genre Analysis &  "</h4>
-
-
-
- ### 🌐 Streamlit Link : https://streamlit.app/
- 
- </div>
-
-
-<h3 align="left"> About This Project 📖</h3>
-
- <div aling="left">
-
-  <p>   Description About Project     </p>
-
-  </div>
-
-### Tech Stack 🛠
-![cover](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-
-##
-
-### ScreenShots 📷
-
-<h4>» Dashboard </h4>
-<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img7.jpg" width="700" height="300" alt="Dashboard">
-
-<h4>»Filter Data by Crime Description </h4>
-<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img6.jpg" width="700" height="300" alt="Filter Data">
-
-<h4>» PieChart of Parent Incident Type Distribution </h4> 
-<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img2.jpg" width="700" height="300" alt="Filter Data">
-
- 
- ##
-
- ### Run Locally  💻
-
-<h4>1. Clone the project </h4>
-
-
-git clone https://github.com/Agarwal-ish/Number-Chunchers.git
-
-
-<h4>2. Go to the project directory </h4> 
-
-```
-cd Number-Chunchers
-
-
-
-# 🚘 Indian EV Market Analysis (2001 - 2024) 🚘
-
-<img src="Images/Ev_animation.gif" alt="Ev Animation" width='200'>
+<img src="https://github.com/Tejaspatil2002/B41_DA_011_Data-Wranglers/blob/main/logo.jpg?raw=true" width='200'>
 
 ---
 
-# 🚀 Domain: India_EV_Market_Analysis
->🚘[Open Website Link](https://b41da004analytics-aces-jyocqvphdfyov8fij7xspz.streamlit.app/)
+# 🚀 Domain: Movie Ratings and Genre Analysis
+>🚘[Open Website Link](https://b41da011data-wranglers-nseipynchzd62dbeomehe7.streamlit.app/)
 
 ---
 
-## 🚔 Overview
-This project provides a comprehensive analysis of the Electric Vehicle (EV) market in India, covering the period from 2001 to 2024. The analysis focuses on:
-- Growth trends
-- Government policies
-- Infrastructure developments
-- Key players in the EV industry
-- Vehicle class-wise and manufacturer-specific sales data
-- Consumer preferences and adoption patterns
+## 🚔Introduction
+<p> </p>
 
 The interactive web application built with *Streamlit* allows users to explore and visualize the data in an intuitive way.
 
