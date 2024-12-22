@@ -43,13 +43,7 @@ The dashboard is deployed and accessible at:
 
 ## File Structure
 ### Movie-Analysis-Dashboard/
-├── main.py               # Main application code for Streamlit
-├── Preprocessor.py       # Preprocessing logic for cleaning and filtering data
-├── cleaned_n_moviess.csv # Cleaned dataset for analysis
-├── EDA Pattern.ipynb     # Exploratory Data Analysis patterns and insights
-├── requirements.txt      # Dependencies for the project
-├── logo.jpg              # Project logo
-├── README.md             # Documentation
+![image](https://github.com/user-attachments/assets/1bf8a1a5-769c-4558-aaba-84d15ba3c513)
 
 
 
@@ -77,6 +71,7 @@ Ensure the following libraries are installed:
 <h4>✦ Prashant Patil</h4>
 
 </div>
+
 ## Feedback
 We'd love to hear from you! Use the contact form in the app to share your thoughts or suggestions.
 
