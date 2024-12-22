@@ -62,8 +62,8 @@ Technology Stack
 
 
 # Movie Ratings and Genre Analysis
-<div align="center">
-<h3 align="center">👷Contributors :</h3>
+<div align="left">
+<h3 align="left">👷Contributors :</h3>
 
 <h4>✦Tejas Patil </h4>
 <h4>✦Chandra Yamuna</h4>
