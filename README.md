@@ -63,7 +63,7 @@ Technology Stack
 
 # Movie Ratings and Genre Analysis
 <div align="center">
-<h3 align="left">👷Contributors :</h3>
+<h3 align="center">👷Contributors :</h3>
 
 <h4>✦Tejas Patil </h4>
 <h4>✦Chandra Yamuna</h4>
@@ -71,12 +71,13 @@ Technology Stack
 
 </div>
 
-<img src="https://github.com/Tejaspatil2002/B41_DA_011_Data-Wranglers/blob/main/logo.jpg?raw=true" width='200'>
+<img  align="center" src="https://github.com/Tejaspatil2002/B41_DA_011_Data-Wranglers/blob/main/logo.jpg?raw=true" width='400'>
+# 🚀 Domain: Movie Ratings and Genre Analysis
+>[Open Website Link](https://b41da011data-wranglers-nseipynchzd62dbeomehe7.streamlit.app/)
 
 ---
 
-# 🚀 Domain: Movie Ratings and Genre Analysis
->🚘[Open Website Link](https://b41da011data-wranglers-nseipynchzd62dbeomehe7.streamlit.app/)
+
 
 ---
 
