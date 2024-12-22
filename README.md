@@ -64,16 +64,22 @@ The dashboard is deployed and accessible at:
 ### ScreenShots 📷
 - Dashbord
 ![image](https://github.com/user-attachments/assets/893e63b8-7f14-4a02-b7ba-eab1579365d5)
+
 - Filter Data by Average Ratings by Certification
-![image](https://github.com/user-attachments/assets/3466e878-b42a-4af5-ba81-87e3b9305cce)
->>  PieChart of Genre Popularity
-![image](https://github.com/user-attachments/assets/12bc1546-7423-4ede-a1ef-1bcb5be222a7)
+![image](https://github.com/user-attachments/assets/04092984-5f6f-44fe-b8d4-ea2c541624b3)
+
+-  PieChart of Genre Popularity
+![image](https://github.com/user-attachments/assets/6e2704da-ce84-48a2-bf1a-17c25239151d)
+
 -  📉 Relationship between Year and Rating
-![image](https://github.com/user-attachments/assets/2a60a770-f70e-4c3f-aec1-774f7ef90d3e)
+![image](https://github.com/user-attachments/assets/30698347-f1f9-44e9-b015-42f5a800023c)
+
 
 ### Some Code Snippet
 ![image](https://github.com/user-attachments/assets/2e9995da-fe24-4016-9f0e-3b5d82ed8431)
+
 ![image](https://github.com/user-attachments/assets/cf92972a-a0fe-41d9-880f-8d452857eec9)
+
 ![image](https://github.com/user-attachments/assets/d8b81ee0-a968-42bd-800f-5f4adb9bd18d)
 
 
