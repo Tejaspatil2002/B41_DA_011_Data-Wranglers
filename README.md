@@ -43,7 +43,7 @@ The dashboard is deployed and accessible at:
 
 ## File Structure
 ### Movie-Analysis-Dashboard/
-![image](https://github.com/user-attachments/assets/1bf8a1a5-769c-4558-aaba-84d15ba3c513)
+![image](https://github.com/user-attachments/assets/be62eb21-779b-40cb-9827-0b498fd0dab7)
 
 
 
