@@ -46,7 +46,6 @@ It includes details such as movie titles, genres, ratings, votes, release years,
 The dashboard is deployed and accessible at:  
 [Streamlit App Link](https://b41da011data-wranglers-nseipynchzd62dbeomehe7.streamlit.app/)
 
----
 
 ## Links
 - **Presentation Video:** [Watch the Presentation](https://your-presentation-link.com](https://youtu.be/9QlJRG_Ow2g)  
