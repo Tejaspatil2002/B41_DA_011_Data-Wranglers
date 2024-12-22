@@ -1,4 +1,4 @@
-<h1 align="center"> Movie Ratings and Genre Analysis </h1>
+<h1 align="center"> Movie Ratings and Genre Analysis Dashboard </h1>
 
 <div align="left">
 <h3 align="left">👷Contributors :</h3>
@@ -14,7 +14,7 @@
 
 
 
-# Movie Ratings and Genre Analysis Dashboard
+
 
 ## Introduction
 The **Movie Ratings and Genre Analysis Dashboard** is an interactive web application designed to explore insights from movie data. Built with Streamlit, this dashboard provides dynamic visualizations and filters, making it easy for users to understand movie trends, analyze ratings, and discover genre popularity over time. The tool is ideal for movie enthusiasts, researchers, and data analysts.
