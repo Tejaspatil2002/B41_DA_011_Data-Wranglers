@@ -71,7 +71,7 @@ Technology Stack
 
 </div>
 
-<img  align="center" src="https://github.com/Tejaspatil2002/B41_DA_011_Data-Wranglers/blob/main/logo.jpg?raw=true" width='400'>
+<img  align="center" src="https://github.com/Tejaspatil2002/B41_DA_011_Data-Wranglers/blob/main/logo.jpg?raw=true" width='250'>
 # 🚀 Domain: Movie Ratings and Genre Analysis
 >[Open Website Link](https://b41da011data-wranglers-nseipynchzd62dbeomehe7.streamlit.app/)
 
