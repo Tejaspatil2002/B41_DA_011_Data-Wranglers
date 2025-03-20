@@ -1,5 +1,5 @@
 
-<h1 align="center"> 🎬 Movies Dataset Analysis Dashboard</h1>
+<h1 align="center"> 🎬 Movies Rating and Genre Analysis Dashboard</h1>
   
 <div align="center">
   
